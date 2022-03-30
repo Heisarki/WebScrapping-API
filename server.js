@@ -1,6 +1,6 @@
 // Creating file and writing to that file
 
-console.log('3rd commit')
+console.log('2nd commit')
 const fs = require('fs')
 const writeStream = fs.createWriteStream('new.html')
 
