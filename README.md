@@ -1,7 +1,7 @@
 # WebScrapping-API
 
->> This an API that scrape data from the website https://www.urupang.com
->> With this API array of object are extacted from the website such as :  title,
+>> This an API that scrape data from the website https://www.urupang.com <br>
+>> With this API array of object are extacted from the website such as :  title, 
                                                                           readMore,
                                                                           datePublished,
                                                                           description
@@ -11,6 +11,7 @@
 
 Example data :
 
+```
 [
   {
     "_id": "6259d58732bd8b214b99e8e5",
@@ -31,3 +32,4 @@ Example data :
     "__v": 0
   }
   ]
+  ```
